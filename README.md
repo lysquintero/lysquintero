@@ -1,7 +1,7 @@
 ### Hi there 👋
 # - 🦄 I'm a multidisciplinary artist.
 # - 🌱 I’m currently learning PHP, HTML/CSS, Processing.
-# - 🤔 I’m looking for help with ...
+# - 🌞 I’m looking to collaborate on creative coding art projects.
 # - 🖤 Pronouns: she/her
 # - ⚡ Fun fact: I'm also a nighthowl 🌙
 
