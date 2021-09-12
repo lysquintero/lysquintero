@@ -8,7 +8,7 @@
 
 **artworks** 
 - [lys.sssss](https://www.instagram.com/lys.sssss/)
-- [portfolio](https://https://www.lysquintero.com/)
+- [portfolio](https://www.lysquintero.com/)
 
 
 <!--
