@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 🖖🏽 
  - 🦄 I'm a multidisciplinary artist.
  - 🌱 I’m currently learning PHP, HTML/CSS, Processing.
  - 🌞 I’m looking to collaborate on creative coding art projects.
