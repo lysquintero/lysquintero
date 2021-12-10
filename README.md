@@ -1,6 +1,6 @@
 ### Hola 🖖🏽 
  - 🦄 I'm a multidisciplinary artist.
- - 🌱 I’m currently learning PHP, HTML/CSS, Processing.
+ - 🌱 I’m currently learning HTML/CSS, Processing, Javascript, Python.
  - 🌞 I’m looking to collaborate on creative coding art projects.
  - 🖤 Pronouns: she/her
  - ⚡ Fun fact: I'm also a nighthowl 🌙
